@@ -1,4 +1,0 @@
-#Tue Aug 13 16:52:29 BRT 2019
-base.0=/home/martini/Área de Trabalho/apps_do_curso _de _flutter/task_list/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
